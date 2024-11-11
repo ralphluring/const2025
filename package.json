@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "contentful": "^11.2.1",
+    "tailwindcss": "^3.4.14"
+  }
+}
